@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: lab1
+name: laba1
 
 # Controls when the workflow will run
 on: [push, create]
@@ -27,4 +27,4 @@ YC_SERVICE_ACCOUNT_KEY_FILE: ${{ secrets.KEY }}
 # ID of your Image registry on Yandex Cloud
 YC_IMG_REGISTRY_ID: crprevsglg9v67k3f7gc
 # Name for your Docker image
-DOCKER_IMG_NAME: lab1
+DOCKER_IMG_NAME: laba1

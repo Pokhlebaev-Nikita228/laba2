@@ -27,5 +27,7 @@ jobs:
           # ID of your Image registry on Yandex Cloud
           YC_IMG_REGISTRY_ID: crprevsglg9v67k3f7gc
           # Name for your Docker image
-          DOCKER_IMG_NAME: laba1
+          DOCKER_IMG_NAME: laba123
           
+
+
